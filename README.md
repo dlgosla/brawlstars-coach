@@ -1,5 +1,5 @@
 # < 크롤링을 이용한 브롤스타즈 코치 >
-### 해당 프로그램 실행을 위해서는 브롤스타즈 API가  허락된 ip에 대해서만 접근을 허용하기 떄문에 https://developer.brawlstars.com 에서 API KEY를 발급받아서 apikey 변수에 다시 할당해줘야한다.
+### 해당 프로그램 실행을 위해서는 브롤스타즈 API가  허락된 ip에 대해서만 접근을 허용하기 때문에 https://developer.brawlstars.com 에서 API KEY를 발급받아서 apikey 변수에 다시 할당해줘야한다.
 
 ### 참고 - 브롤스타즈란?  
 
