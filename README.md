@@ -325,9 +325,9 @@ def __init__(self, game):
     => 부차적인 기능을 제외하고 브롤러/조합 추천을 중심으로 프로그램을 다시 구성했다.<br>
     
     => https://developer.brawlstars.com/ 에서 브롤스타즈 공식 api를 크롤링했다.   <br>
-    <img src="readme/1.PNG" height="400px" width="600px" >  <br>
+    <img src="readme/1.PNG" height="600px" width="400px" >  <br>
     - 배틀태그를 입력하면 프로필을 보여준다. <br>
-    <img src="readme/10.PNG" height="600px" width="400px" >   <br>
+    <img src="readme/10.PNG" height="400px" width="400px" >   <br>
     - 메뉴에서 1번을 선택하면 유저메뉴를 보여준다.<br>
     <img src="readme/2.PNG" height="600px" width="400px" ><br>
     - 유저 메뉴에서 1번을 선택했을 경우 내가 가진 브롤러 정보를 보여준다<br>
@@ -342,9 +342,9 @@ def __init__(self, game):
    selenium을 이용해 동적으로 데이터를 수집했음에도 일부 데이터에 대한 접근이 막혀있어 실패했다. <br>
     => 크롤링할 사이트를 정적 데이터 수집이 가능한 https://www.starlist.pro/ 로 변경해서 승률 정보를 가져온다.<br>
     
-    <img src="readme/1.PNG" height="400px" width="600px" >  <br>
+    <img src="readme/1.PNG" height="600px" width="400px" >  <br>
     - 배틀태그를 입력하면 프로필을 보여준다. <br>
-    <img src="readme/4.PNG" height="600px" width="400px" >   <br>
+    <img src="readme/4.PNG" height="400px" width="400px" >   <br>
     - 메뉴에서 2번을 선택하면 승률 분석을 시작한다.<br>
     <img src="readme/5.PNG" height="600px" width="400px" ><br>
     - 승률 메뉴에서 1번을 선택했을 경우 일반적인 브롤러 승률을 보여준다<br>
@@ -353,7 +353,7 @@ def __init__(self, game):
     <img src="readme/7.PNG" height="600px" width="400px" ><br>
     - 승률 메뉴에서 3번을 선택하면 나의 브롤러별 승률과 추천 브롤러를 보여준다   <br>
     <img src="readme/8.PNG" height="600px" width="400px" ><br>
-    <img src="readme/9.PNG" height="600px" width="400px" ><br>
+    <img src="readme/9.PNG" height="300px" width="400px" ><br>
     - 승률 메뉴에서 4번을 선택하면 나의 조합별 승률과 추천 조합을 보여준다   <br>
                
               
